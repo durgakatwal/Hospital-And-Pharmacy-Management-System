@@ -1,0 +1,21 @@
+{
+ "creation": "2026-09-30 11:48:28.238379",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "document_type": "Purchase Order",
+ "dynamic_filters_json": "[]",
+ "filters_json": "[[\"Purchase Order\", \"status\", \"in\", [\"To Receive and Bill\", \"To Receive\"]], [\"Purchase Order\", \"docstatus\", \"=\", 1]]",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "label": "Purchase Orders to Receive",
+ "modified": "2026-09-30 11:48:28.238379",
+ "modified_by": "Administrator",
+ "module": "Durga Hospital",
+ "name": "Purchase Orders to Receive",
+ "owner": "Administrator",
+ "show_percentage_stats": 0,
+ "stats_time_interval": "Daily",
+ "type": "Document Type"
+}

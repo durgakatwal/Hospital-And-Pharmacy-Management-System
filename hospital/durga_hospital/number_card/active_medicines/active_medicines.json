@@ -1,0 +1,21 @@
+{
+ "creation": "2026-09-30 11:48:28.238379",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "document_type": "Item",
+ "dynamic_filters_json": "[]",
+ "filters_json": "[[\"Item\", \"disabled\", \"=\", 0], [\"Item\", \"is_stock_item\", \"=\", 1]]",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "label": "Active Medicines",
+ "modified": "2026-09-30 11:48:28.238379",
+ "modified_by": "Administrator",
+ "module": "Durga Hospital",
+ "name": "Active Medicines",
+ "owner": "Administrator",
+ "show_percentage_stats": 0,
+ "stats_time_interval": "Daily",
+ "type": "Document Type"
+}

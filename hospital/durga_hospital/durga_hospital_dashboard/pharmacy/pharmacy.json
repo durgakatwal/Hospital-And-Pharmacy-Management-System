@@ -1,0 +1,58 @@
+{
+ "cards": [
+  {
+   "card": "Active Medicines"
+  },
+  {
+   "card": "Stock Value"
+  },
+  {
+   "card": "Low Stock Items"
+  },
+  {
+   "card": "Batches Expiring in 30 Days"
+  },
+  {
+   "card": "Expired Batches with Stock"
+  },
+  {
+   "card": "Purchase Receipts This Month"
+  },
+  {
+   "card": "Sales This Month"
+  },
+  {
+   "card": "Purchase Orders to Receive"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Sales Trend",
+   "width": "Half"
+  },
+  {
+   "chart": "Purchase Trend",
+   "width": "Half"
+  },
+  {
+   "chart": "Items by Item Group",
+   "width": "Half"
+  },
+  {
+   "chart": "Purchase Receipts by Supplier",
+   "width": "Half"
+  }
+ ],
+ "creation": "2026-10-01 15:43:51.216570",
+ "dashboard_name": "Pharmacy",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2026-10-01 15:48:23.452180",
+ "modified_by": "Administrator",
+ "module": "Durga Hospital",
+ "name": "Pharmacy",
+ "owner": "Administrator"
+}

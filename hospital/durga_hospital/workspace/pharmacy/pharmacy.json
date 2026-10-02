@@ -1,0 +1,90 @@
+{
+ "charts": [],
+ "content": "[{\"id\": \"c52524f575\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eQuick Actions\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"e1c5a52e40\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Open POS\", \"col\": 4}}, {\"id\": \"3dfeec2182\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Items\", \"col\": 4}}, {\"id\": \"3c79f4ad5e\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Batches\", \"col\": 4}}, {\"id\": \"0cad57fcd5\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Purchase Receipts\", \"col\": 4}}, {\"id\": \"30b3d73e17\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Sales Invoices\", \"col\": 4}}, {\"id\": \"5e226f3ba0\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Stock Entries\", \"col\": 4}}, {\"id\": \"a1a1e214bc\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eNeeds Attention\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"912dc55ac0\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Sales This Month\", \"col\": 3}}, {\"id\": \"fe32c8c875\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Batches Expiring in 30 Days\", \"col\": 3}}, {\"id\": \"a0febaced7\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Expired Batches with Stock\", \"col\": 3}}, {\"id\": \"f6b796582b\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Low Stock Items\", \"col\": 3}}]",
+ "creation": "2026-10-01 15:43:51.413378",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "pill",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Pharmacy",
+ "links": [],
+ "modified": "2026-10-01 15:48:22.877355",
+ "modified_by": "Administrator",
+ "module": "Durga Hospital",
+ "name": "Pharmacy",
+ "number_cards": [
+  {
+   "label": "Sales This Month",
+   "number_card_name": "Sales This Month"
+  },
+  {
+   "label": "Batches Expiring in 30 Days",
+   "number_card_name": "Batches Expiring in 30 Days"
+  },
+  {
+   "label": "Expired Batches with Stock",
+   "number_card_name": "Expired Batches with Stock"
+  },
+  {
+   "label": "Low Stock Items",
+   "number_card_name": "Low Stock Items"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 10.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Open POS",
+   "link_to": "point-of-sale",
+   "type": "Page"
+  },
+  {
+   "doc_view": "List",
+   "label": "Items",
+   "link_to": "Item",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Batches",
+   "link_to": "Batch",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Purchase Receipts",
+   "link_to": "Purchase Receipt",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Sales Invoices",
+   "link_to": "Sales Invoice",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Stock Entries",
+   "link_to": "Stock Entry",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "standard": 1,
+ "title": "Pharmacy",
+ "type": "Workspace"
+}
